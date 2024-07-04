@@ -1,2 +1,1 @@
-# eventcatalog
-Discover, Explore and Document your Event Driven Architectures powered by Markdown.
+Repo has now moved to https://github.com/event-catalog/eventcatalog
